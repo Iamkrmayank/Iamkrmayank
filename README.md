@@ -3,25 +3,44 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamkrmayank&label=Profile%20views&color=0e75b6&style=flat" alt="iamkrmayank" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mayank16017018" target="blank"><img src="https://img.shields.io/twitter/follow/mayank16017018?logo=twitter&style=for-the-badge" alt="mayank16017018" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/mayank16017018" target="blank">
+    <img src="https://img.shields.io/twitter/follow/mayank16017018?logo=twitter&style=for-the-badge" alt="mayank16017018" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on [HealthCare Projects](https://github.com/Iamkrmayank/Breast-Cancer-Prediction)
+## 👋 Hey there, I'm Kumar Mayank
 
-- 🌱 I’m currently learning **GenAI , AWS, Docker, Git , Android Studio, Visual Studio Code.**
+- 🔭 I’m currently working on cutting-edge [Healthcare Projects](https://github.com/Iamkrmayank/Breast-Cancer-Prediction), [Price Optimization Models](https://github.com/Iamkrmayank/Price-Optimization-Model), and [Marine Debris Detection](https://github.com/Iamkrmayank/Floating-Debris-Detection)
+- 🌱 Actively learning **GenAI, AWS, Docker, Git, Android Studio, and Visual Studio Code**
+- 🤝 I’m open to collaborating on **AI + IoT Projects**, especially in Healthcare and Sustainability
+- 👨‍💻 Explore my full portfolio: [My Portfolio](https://iamkrmayank.github.io/My-Portfolio/)
+- 🧠 Ask me about: **LLMs, AI-driven optimization, reinforcement learning algorithms, and applied AI in robotics and healthcare**
+- ✍️ I write articles & tutorials here: [My Blog](https://www.blogger.com/blog/posts/7899931063056146948)
+- 📚 Check out my research publications on IEEE:
+  - [AI-Driven Marine Debris Detection](https://ieeexplore.ieee.org/document/10353339)
+  - [Cancer Biomarker Prediction](https://ieeexplore.ieee.org/document/10430291)
+  - [Adventure Tourism Recommender System](https://ieeexplore.ieee.org/document/10564049)
+- 💼 Know about my experience: [Resume](https://github.com/Iamkrmayank/resume)
+- 📫 Reach me at **krmayank2002@gmail.com**
 
-- 👯 I’m looking to collaborate on [HealthCare + IOT Projects](https://github.com/Iamkrmayank/Breast-Cancer-Prediction)
+## 🏆 Achievements
 
-- 👨‍💻 All of my projects are available at [https://iamkrmayank.github.io/My-Portfolio/](https://iamkrmayank.github.io/My-Portfolio/)
+- 🥇 Finalist - **Build For Bharat** (Google Cloud + ONGC)
+- 🧠 Finalist - **Sparkathon 2024** (Walmart)
+- 💡 Innovator - **Graphthon** (Suvichaar: AI for Mental Health)
 
-- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/7899931063056146948](https://www.blogger.com/blog/posts/7899931063056146948)
+## 🛠️ Tech Stack & Skills
 
-- 💬 Ask me about **Research Interests: As I am Developing new algorithms for reinforcement learning, applying AI/ML to solve real-world problems in robotics and healthcare**
+- 💻 Languages: `Python`, `C++`, `Java`, `JavaScript`, `SQL`
+- 🔧 Tools & Frameworks: `TensorFlow`, `PyTorch`, `Keras`, `scikit-learn`
+- ☁️ Cloud: `AWS`, `GCP`, `Docker`, `Kubernetes`
+- 📊 BI & Analytics: `Tableau`, `Power BI`, `Pandas`, `Matplotlib`, `Seaborn`
 
-- 📫 How to reach me **krmayank2002@gmail.com**
+---
 
-- 📄 Know about my experiences [https://github.com/Iamkrmayank/resume](https://github.com/Iamkrmayank/resume)
-
-<h3 align="left">Connect with me:</h3>
+### <h3 align="left">📬 Connect with me:</h3>
+ 
 <p align="left">
 <a href="https://twitter.com/mayank16017018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayank16017018" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kumar-mayank-392381168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kumar-mayank-392381168/" height="30" width="40" /></a>
