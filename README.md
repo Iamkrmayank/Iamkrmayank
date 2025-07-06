@@ -28,7 +28,7 @@
 
 - 🥇 Finalist - **Build For Bharat** (Google Cloud + ONGC)
 - 🧠 Finalist - **Sparkathon 2024** (Walmart)
-- 💡 Innovator - **Graphthon** (Suvichaar: AI for Mental Health)
+- 💡 Innovator - **Graphthon** (Suvichaar: AI for Mental Health : https://suvichaar.org)
 
 ## 🛠️ Tech Stack & Skills
 
