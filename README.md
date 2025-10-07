@@ -5,7 +5,7 @@
   <a href="https://gooclaim.com" target="_blank">
     <img src="https://img.shields.io/badge/Visit-Gooclaim.com-blue?style=for-the-badge&logo=googlechrome" alt="gooclaim" />
   </a>
-  <a href="https://twitter.com/mayank16017018" target="blank">
+  <a href="[https://twitter.com/mayank16017018](https://x.com/KumarMayan37224)" target="blank">
     <img src="https://img.shields.io/twitter/follow/mayank16017018?logo=twitter&style=for-the-badge" alt="mayank16017018" />
   </a>
 </p>
@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm **Kumar Mayank**, a **B.Tech in Computer Science & Engineering (AI & DS)**, passionate about building intelligent systems that bridge **AI, automation, and real-world impact**.
+I'm **Kumar Mayank**, a **B.Tech in Computer Science & Engineering (AI & ML)**, passionate about building intelligent systems that bridge **AI, automation, and real-world impact**.
 
 - 🧠 **Founder & CEO – [Gooclaim](https://gooclaim.com)**  
   Building an **AI Autopilot for Healthcare Revenue**, automating claim coding, denials, prior authorization, and appeals using multi-agent orchestration with **LLMs, Temporal.io, and Azure infrastructure**.
@@ -46,11 +46,6 @@ I'm **Kumar Mayank**, a **B.Tech in Computer Science & Engineering (AI & DS)**, 
 - ⚙️ **Automation Rate:** 95% of routine RCM tasks automated  
 - 🔒 **Compliance:** HIPAA, SOC-2, BAA-ready  
 - 💰 **Impact:** Saves hospitals up to **$120B annually** in revenue leakage
-
-📈 **Market Size:**
-- **TAM:** $657B Global RCM Market  
-- **SAM:** $200B U.S. Hospital Market  
-- **SOM:** $10B (Top 500 U.S. Hospitals)
 
 🧾 **Business Model:**
 Hybrid SaaS + Performance Fee  
