@@ -99,10 +99,10 @@ Hybrid SaaS + Performance Fee
 
 <p align="left">
 <a href="https://linkedin.com/in/kumar-mayank-392381168" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://twitter.com/mayank16017018" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="[https://twitter.com/mayank16017018](https://x.com/KumarMayan37224)" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
 <a href="https://instagram.com/iamkrmayank" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 <a href="https://github.com/Iamkrmayank" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
-<a href="https://suvichaar.org" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" height="30" width="40" /></a>
+<a href="https://gooclaim.com" target="_blank"><img src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg](https://res.cloudinary.com/dvgoquoqv/image/upload/v1759820669/Gooclaim_Logo_zepcue.png)" height="30" width="40" /></a>
 </p>
 
 📧 **Email:** krmayank2002@gmail.com  
