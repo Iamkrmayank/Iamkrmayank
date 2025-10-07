@@ -42,7 +42,7 @@ I'm **Kumar Mayank**, a **B.Tech in Computer Science & Engineering (AI & ML)**, 
 > Eliminating claim denials and revenue leakage through intelligent automation.
 
 ### 💎 Product Overview
-- 🤖 **Multi-Agent Workflow:** Intake → Coding → Denial Prediction → Prior Auth → Appeals  
+- 🤖 **Multi-Agent Workflow:** Intake → Appeals  
 - ⚙️ **Automation Rate:** 95% of routine RCM tasks automated  
 - 🔒 **Compliance:** HIPAA, SOC-2, BAA-ready  
 - 💰 **Impact:** Saves hospitals up to **$120B annually** in revenue leakage
