@@ -60,7 +60,7 @@ Hybrid SaaS + Performance Fee
 | 2028+ | National Scale (50–100 health systems) |
 
 📄 **Pitch Deck:** [View Here](https://gooclaim.com)  
-📊 **Financials:** [Google Sheet](https://docs.google.com/spreadsheets/d/1Ql6lrW5gIxGKjAL7gY39PHhi-oMbRyOSBWqZzBVKDyg/edit?usp=sharing)
+
 
 ---
 
