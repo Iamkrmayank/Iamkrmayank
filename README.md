@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Kumar Mayank</h1>
-<h3 align="center">Founder & CEO of Gooclaim | AI/ML Researcher | Software Engineer</h3>
+<h3 align="center">Gooclaim | AI/ML Researcher | Software Engineer</h3>
 
 <p align="center">
   <a href="https://gooclaim.com" target="_blank">
