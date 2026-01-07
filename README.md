@@ -16,7 +16,7 @@
 
 I'm **Kumar Mayank**, a **B.Tech in Computer Science & Engineering (AI & ML)**, passionate about building intelligent systems that bridge **AI, automation, and real-world impact**.
 
-- 🧠 **Founder & CEO – [Gooclaim](https://gooclaim.com)**  
+- 🧠 **Buidling  – [Gooclaim](https://gooclaim.com)**  
   Building an **AI Autopilot for Healthcare Revenue**, automating claim coding, denials, prior authorization, and appeals using multi-agent orchestration with **LLMs, Temporal.io, and Azure infrastructure**.
 
 - 💡 AI/ML Researcher with 3+ IEEE publications  
